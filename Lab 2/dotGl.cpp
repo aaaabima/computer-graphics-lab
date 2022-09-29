@@ -26,6 +26,8 @@ void dot (void)
 	glVertex2f (150, 35);
 	glColor3f(0.0, 1.0, 1.0); //cyan
 	glVertex2f (150, 110);
+	glColor3f(0.5, 0.5, 0.5); //Warna baru
+	glVertex2f (175, 110);
 	glEnd ();
 	glFlush ( ); // Process all OpenGL routines as quickly as possible.
 }
