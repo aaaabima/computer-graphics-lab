@@ -1,0 +1,19 @@
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2D\Transformation2D\bin\Debug\Transformation2D.exe.config
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2D\Transformation2D\bin\Debug\Transformation2D.exe
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2D\Transformation2D\bin\Debug\Transformation2D.pdb
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2D\Transformation2D\obj\Debug\Transformation2D.csprojResolveAssemblyReference.cache
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2D\Transformation2D\obj\Debug\Transformation2D.Form1.resources
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2D\Transformation2D\obj\Debug\Transformation2D.Properties.Resources.resources
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2D\Transformation2D\obj\Debug\Transformation2D.csproj.GenerateResource.Cache
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2D\Transformation2D\obj\Debug\Transformation2D.exe
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2D\Transformation2D\obj\Debug\Transformation2D.pdb
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics\Transformation2D\Transformation2D\bin\Debug\Transformation2D.exe.config
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics\Transformation2D\Transformation2D\bin\Debug\Transformation2D.exe
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics\Transformation2D\Transformation2D\bin\Debug\Transformation2D.pdb
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics\Transformation2D\Transformation2D\obj\Debug\Transformation2D.csproj.AssemblyReference.cache
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics\Transformation2D\Transformation2D\obj\Debug\Transformation2D.Form1.resources
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics\Transformation2D\Transformation2D\obj\Debug\Transformation2D.Properties.Resources.resources
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics\Transformation2D\Transformation2D\obj\Debug\Transformation2D.csproj.GenerateResource.cache
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics\Transformation2D\Transformation2D\obj\Debug\Transformation2D.csproj.CoreCompileInputs.cache
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics\Transformation2D\Transformation2D\obj\Debug\Transformation2D.exe
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics\Transformation2D\Transformation2D\obj\Debug\Transformation2D.pdb

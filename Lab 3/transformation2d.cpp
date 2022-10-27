@@ -1,5 +1,5 @@
 #include <GL/glut.h>
-#include <stdlib.h>
+// #include <stdlib.h>
 #include <math.h>
 
 /* Set initial display-window size. */
