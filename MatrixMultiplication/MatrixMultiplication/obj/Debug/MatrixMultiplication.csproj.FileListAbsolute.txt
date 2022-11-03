@@ -4,3 +4,10 @@ C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\MatrixMultiplicatio
 C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\MatrixMultiplication\MatrixMultiplication\obj\Debug\MatrixMultiplication.csprojResolveAssemblyReference.cache
 C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\MatrixMultiplication\MatrixMultiplication\obj\Debug\MatrixMultiplication.exe
 C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\MatrixMultiplication\MatrixMultiplication\obj\Debug\MatrixMultiplication.pdb
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics-lab\MatrixMultiplication\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe.config
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics-lab\MatrixMultiplication\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics-lab\MatrixMultiplication\MatrixMultiplication\bin\Debug\MatrixMultiplication.pdb
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics-lab\MatrixMultiplication\MatrixMultiplication\obj\Debug\MatrixMultiplication.csproj.AssemblyReference.cache
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics-lab\MatrixMultiplication\MatrixMultiplication\obj\Debug\MatrixMultiplication.csproj.CoreCompileInputs.cache
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics-lab\MatrixMultiplication\MatrixMultiplication\obj\Debug\MatrixMultiplication.exe
+D:\Kuliah\Akademik\Semester 7\Asprak\Grafika Komputer\computer-graphics-lab\MatrixMultiplication\MatrixMultiplication\obj\Debug\MatrixMultiplication.pdb
